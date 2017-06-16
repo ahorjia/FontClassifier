@@ -1,0 +1,9 @@
+C:\Users\aghorbani\Documents\MyCode\FontClassifier\Features\DemoFontSimilarity\DemoFontSimilarity\bin\Debug\DemoFontSimilarity.exe.config
+C:\Users\aghorbani\Documents\MyCode\FontClassifier\Features\DemoFontSimilarity\DemoFontSimilarity\bin\Debug\DemoFontSimilarity.exe
+C:\Users\aghorbani\Documents\MyCode\FontClassifier\Features\DemoFontSimilarity\DemoFontSimilarity\bin\Debug\DemoFontSimilarity.pdb
+C:\Users\aghorbani\Documents\MyCode\FontClassifier\Features\DemoFontSimilarity\DemoFontSimilarity\obj\Debug\DemoFontSimilarity.csprojResolveAssemblyReference.cache
+C:\Users\aghorbani\Documents\MyCode\FontClassifier\Features\DemoFontSimilarity\DemoFontSimilarity\obj\Debug\DemoFontSimilarity.Form1.resources
+C:\Users\aghorbani\Documents\MyCode\FontClassifier\Features\DemoFontSimilarity\DemoFontSimilarity\obj\Debug\DemoFontSimilarity.Properties.Resources.resources
+C:\Users\aghorbani\Documents\MyCode\FontClassifier\Features\DemoFontSimilarity\DemoFontSimilarity\obj\Debug\DemoFontSimilarity.csproj.GenerateResource.Cache
+C:\Users\aghorbani\Documents\MyCode\FontClassifier\Features\DemoFontSimilarity\DemoFontSimilarity\obj\Debug\DemoFontSimilarity.exe
+C:\Users\aghorbani\Documents\MyCode\FontClassifier\Features\DemoFontSimilarity\DemoFontSimilarity\obj\Debug\DemoFontSimilarity.pdb
